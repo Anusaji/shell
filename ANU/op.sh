@@ -1,6 +1,6 @@
 #/bin/bash
 
-echo "Enter an op : "
+echo "Enter an os : "
 
 read os
 
